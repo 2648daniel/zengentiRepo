@@ -1,19 +1,19 @@
 @font-face {
   font-family: 'OswaldBold';
-  src: url('..fonts/Oswald/Oswald-Bold.ttf') format('truetype');
+  src: url('../fonts/Oswald/Oswald-Bold.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'OswaldLight';
-  src: url('..fonts/Oswald/Oswald-Light.ttf') format('truetype');
+  src: url('../fonts/Oswald/Oswald-Light.ttf') format('truetype');
 }
 @font-face {
   font-family: 'OswaldRegs';
-  src: url('..fonts/Oswald/Oswald-Regular.ttf') format('truetype');
+  src: url('../fonts/Oswald/Oswald-Regular.ttf') format('truetype');
 }
 @font-face {
   font-family: 'OpenSans';
-  src: url('..fonts/OpenSans/OpenSans-Regular.ttf') format('truetype');
+  src: url('../fonts/OpenSans/OpenSans-Regular.ttf') format('truetype');
 }
 
   body ul li > a, footer .footer-brand, .oswaldLight{
@@ -160,7 +160,7 @@
 
 	.footer-brand{
 	    display: inline-block;
-	    background: url('..img/logo_bg.png') no-repeat;
+	    background: url('../img/logo_bg.png') no-repeat;
 	    height: 85px;
 		background-size: 29%;
    		 background-position: 0 0;
